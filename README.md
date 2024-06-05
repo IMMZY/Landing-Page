@@ -47,5 +47,5 @@ To build a single ecommerce product page where users would be able to:
 
 ## Author
 
-- Frontend Mentor - [@Simplyvoda](https://www.frontendmentor.io/profile/Simplyvoda)
-- Twitter - [@simplyvoda](https://www.twitter.com/simplyvoda)
+- Frontend Mentor - [@IMMZY](https://www.frontendmentor.io/profile/IMMZY)
+
